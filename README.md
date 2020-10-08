@@ -1,1 +1,1 @@
-# BOC-CLASS
+# Box Class
